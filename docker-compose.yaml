@@ -21,9 +21,9 @@ services:
       VERSION: "1.17.1"
       SPIGET_RESOURCES: 75871,18083,74208,59773,96014,2124,12936
       REMOVE_OLD_MODS: "TRUE"
-      MOTD: "\u00A7e\u00A7lServidor\u00A7a\u00A7l emptynoobLJ\u00A7c\u00A7l (1.17.1 Survival)"
+      MOTD: "\u00A7e\u00A7lServidor\u00A7a\u00A7l Perri\u00A7c\u00A7l (1.17.1 Survival)"
       DIFFICULTY: normal
-      OPS: "emptynoobLJ96"
+      OPS: "usuarioop"
       ICON: "./server-icon.png"
       MAX_PLAYERS: "5"
       PVP: "false"
