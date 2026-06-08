@@ -1,0 +1,12 @@
+# Secretos locales (copiar desde .env.example)
+.env
+
+# Datos de runtime del servidor (mundo, passwords, jugadores)
+mc-paper/
+
+# Plugins manuales (descargar según host-plugins/README.md)
+host-plugins/*.jar
+
+# Misc
+*.log
+.DS_Store
