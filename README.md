@@ -71,6 +71,24 @@ docker-minecraft/
 └── server-icon.png
 ```
 
+## Gamerule manual: `max_entity_cramming` (granjas técnicas)
+
+**No** se aplica desde `docker-compose`; el servidor usa el **valor por defecto de Minecraft** (24).
+
+Si en el mundo técnico querés ajustarlo a mano (consola in-game o RCON):
+
+```bash
+/gamerule max_entity_cramming 24
+```
+
+Consultar valor actual:
+
+```bash
+/gamerule max_entity_cramming
+```
+
+Limita entidades por bloque; al superarlo, daño de asfixia. Útil en granjas con muchos mobs/ítems.
+
 ## Comandos útiles
 
 ```bash
